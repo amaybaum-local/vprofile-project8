@@ -5,7 +5,7 @@
     "projectToken": "",
     "baseBranches": [],
     "enableReachability": true,
-    "reachabilityScanDelayHours": 1
+    "reachabilityScanDelayHours": 0
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
