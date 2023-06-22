@@ -1,24 +1,4 @@
 {
-  "scanSettings": {
-    "configMode": "AUTO",
-    "configExternalURL": "",
-    "projectToken": "",
-    "baseBranches": [],
-    "enableReachability": true
-  },
-  "checkRunSettings": {
-    "vulnerableCheckRunConclusionLevel": "failure",
-    "displayMode": "diff",
-    "useMendCheckNames": true
-  },
-  "issueSettings": {
-    "minSeverityLevel": "LOW",
-    "issueType": "VULNERABILITY"
-  },
-  "remediateSettings": {
-    "workflowRules": {
-      "enabled": true
-    }
-  }
+  "settingsInheritedFrom": "amaybaum-local/whitesource-config@main"
 }
  
