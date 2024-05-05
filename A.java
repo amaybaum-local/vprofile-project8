@@ -1,5 +1,5 @@
 public class A {
-  // TODO ......
+  // TODO .......
   
 }
 
